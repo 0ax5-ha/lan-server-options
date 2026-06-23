@@ -1,0 +1,19 @@
+{
+  "lan_server_options.advanced": "Advanced options",
+  "lan_server_options.advanced.tooltip": "Configure additional LAN server options",
+  "lan_server_options.title": "Advanced LAN options",
+  "lan_server_options.online_mode": "Online mode",
+  "lan_server_options.online_mode.tooltip": "Verifies accounts with Mojang's servers. Turning it off permits unauthenticated names.",
+  "lan_server_options.whitelist": "Whitelist",
+  "lan_server_options.whitelist.tooltip": "Only allows players added to the whitelist to join.",
+  "lan_server_options.pvp": "PvP",
+  "lan_server_options.pvp.tooltip": "Allows players to damage each other.",
+  "lan_server_options.motd": "Server message",
+  "lan_server_options.max_players": "Maximum players",
+  "lan_server_options.max_players.error": "Must be between %s and %s.",
+  "lan_server_options.idle_timeout": "Idle timeout (min)",
+  "lan_server_options.idle_timeout.error": "Must be between 0 and %s minutes.",
+  "lan_server_options.offline_warning.short": "Offline mode: trusted networks only",
+  "lan_server_options.offline_warning": "Disabling online mode allows players to impersonate names.",
+  "lan_server_options.motd.refresh_failed": "The LAN announcement could not be updated; reopen the LAN server."
+}

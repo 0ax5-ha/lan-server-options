@@ -1,0 +1,19 @@
+{
+  "lan_server_options.advanced": "Opciones avanzadas",
+  "lan_server_options.advanced.tooltip": "Configura opciones adicionales del servidor LAN",
+  "lan_server_options.title": "Opciones avanzadas de LAN",
+  "lan_server_options.online_mode": "Modo online",
+  "lan_server_options.online_mode.tooltip": "Verifica las cuentas con los servidores de Mojang. Desactivarlo permite nombres sin autenticar.",
+  "lan_server_options.whitelist": "Lista blanca",
+  "lan_server_options.whitelist.tooltip": "Solo permite entrar a jugadores agregados a la lista blanca.",
+  "lan_server_options.pvp": "PvP",
+  "lan_server_options.pvp.tooltip": "Permite que los jugadores se hagan daño entre sí.",
+  "lan_server_options.motd": "Mensaje del servidor",
+  "lan_server_options.max_players": "Jugadores máximos",
+  "lan_server_options.max_players.error": "Debe estar entre %s y %s.",
+  "lan_server_options.idle_timeout": "Inactividad (min)",
+  "lan_server_options.idle_timeout.error": "Debe estar entre 0 y %s minutos.",
+  "lan_server_options.offline_warning.short": "Modo offline: úsalo solo en redes confiables",
+  "lan_server_options.offline_warning": "Desactivar el modo online permite suplantar nombres de jugador.",
+  "lan_server_options.motd.refresh_failed": "No se pudo actualizar el anuncio LAN; vuelve a abrir el servidor LAN."
+}

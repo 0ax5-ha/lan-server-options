@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "lan_server_options",
+  "version": "${version}",
+  "name": "LAN Server Options",
+  "description": "Adds advanced server settings to Minecraft's LAN multiplayer screen.",
+  "authors": ["maxi"],
+  "license": "CC0-1.0",
+  "icon": "assets/lan_server_options/icon.png",
+  "environment": "client",
+  "mixins": [
+    {
+      "config": "lan_server_options.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25"
+  }
+}

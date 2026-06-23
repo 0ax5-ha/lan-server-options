@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "cl.maxi.lanserveroptions.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "IntegratedServerMixin",
+    "MultiplayerOptionsScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
