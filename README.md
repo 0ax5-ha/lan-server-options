@@ -1,6 +1,6 @@
 # LAN Server Options
 
-Advanced LAN settings for Minecraft Java `26.2` on Fabric.
+Advanced LAN settings for Minecraft Java `26.3` on Fabric.
 
 ![Advanced LAN options screen](docs/images/advanced-options.png)
 
@@ -12,12 +12,12 @@ Advanced LAN settings for Minecraft Java `26.2` on Fabric.
 - Change the server MOTD shown in LAN discovery.
 - Change the maximum player count from `1` to `100`.
 - Change the idle timeout from `0` to `1440` minutes.
-- Uses Minecraft `26.2`'s built-in LAN, port, game mode, and command permission controls.
+- Uses Minecraft `26.3`'s built-in LAN, port, game mode, and command permission controls.
 
 ## Requirements
 
-- Minecraft Java `26.2`
-- Fabric Loader `0.19.3` or newer for `26.2`
+- Minecraft Java `26.3`
+- Fabric Loader `0.19.3` or newer for `26.3`
 - Java `25`
 
 Fabric API is not required.
@@ -28,7 +28,7 @@ Fabric API is not required.
 2. Put the JAR in the host client's `mods` folder.
 3. Open a single-player world, pause, and use **Multiplayer Options** > **Advanced options**.
 
-Only the player hosting the LAN world needs the mod. Joining players can use vanilla Minecraft `26.2`.
+Only the player hosting the LAN world needs the mod. Joining players can use vanilla Minecraft `26.3`.
 
 ## Build From Source
 
